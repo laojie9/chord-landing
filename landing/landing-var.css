@@ -22,3 +22,40 @@
     background-position: center bottom;
   }
 }
+
+.btn-gradient:before, .btn-gradient:before, .demos span:before{
+  background: linear-gradient(166deg, #c5b2ae 35%, #ae9f9a 65%);
+}
+
+.bg-gradient {
+  background: linear-gradient(to top left, #c5b2ae, #ae9f9a) !important;
+}
+
+.features svg {
+  fill: #c5b2ae;
+  stroke: #c5b2ae;
+}
+
+.experience .expshape1{
+  fill: rgba(197,178,174,0.85);
+}
+
+.experience .expshape2{
+  fill: #ae9f9a;
+}
+
+.text-primary{
+  color: #ae9f9a !important;
+}
+
+.attractive-features .list span, .experience h3{
+  color: #ae9f9a;
+}
+
+.particle2 span{
+  background-color: rgba(197,178,174,0.85);
+}
+
+.experience .drop{
+  background-color: rgba(197,178,174,0.85);
+}
